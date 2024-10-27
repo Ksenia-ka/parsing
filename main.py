@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from aiogram import Bot, Dispatcher, types
 from aiogram.utils import executor
 
-TOKEN = '8047668775:AAHr2FNUoEzKaiCWMArgT2fS9x5zuF19lsA'
+TOKEN = '8047668775:AAH9dX_1igUYMJswS0DBpHSwD2iwVgA0TxM'
 CHAT_ID = '@NewS_it_qwedfghnm_bot'
 
 bot = Bot(token=TOKEN)
