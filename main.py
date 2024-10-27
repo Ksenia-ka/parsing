@@ -12,7 +12,7 @@ bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
 
 
-URL = 'https://www.ixbt.com/news/'
+URL = 'https://www.ixbt.com/'
 
 latest_news = {}
 
